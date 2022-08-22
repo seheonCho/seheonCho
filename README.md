@@ -15,12 +15,5 @@ Hi there 👋 &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.s
   <a>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>  
   </a>
-  <br/>
-  <a>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>  
-  </a>
 </p>
 
