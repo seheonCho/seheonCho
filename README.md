@@ -3,7 +3,6 @@ Hi there 👋 &nbsp;
 🌱 학습과 지식공유를 좋아하는 개발자입니다.
 
 - Notion: [공부한 내용을 정리한 곳](https://ultra-orca-818.notion.site/Development-d22eb2d4df62494a9bc05b8c779c1284)
-- Blog: [경험과 나누고 싶은 내용들](https://seheon.tistory.com/)
 
 <!-- 
 <div align="center">
